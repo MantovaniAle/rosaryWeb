@@ -27,3 +27,7 @@ h1 {
     color: black;
     border: 2px solid #959700; /* Green */
 }
+
+.buttons:hover{
+    background-color: #959700;
+}
