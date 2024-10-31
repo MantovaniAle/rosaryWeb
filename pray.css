@@ -27,5 +27,6 @@ p {
 }
 
 .title {
+    margin-top: 15px;
     color: red;
 }
